@@ -1,0 +1,12 @@
+Create a new folder in the students folder in the class repository.
+Create the folder in your clone of your fork of the repository.
+Name it with your own name in CamelCase, like: CrisEwing.
+In the folder create one new file, named README.md
+In that new file, write up a few paragraphs about yourself.
+Use proper markdown syntax.
+Include at least two headings, of different levels.
+Include at least one link.
+Using git add, add the new folder and file to your clone of the repository.
+Using git commit, commit your changes to your clone (write a good commit message). If you later edit your file, don’t forget to commit those changes too.
+Using git push, push your commits to your fork on GitHub.
+In GitHub’s Web UI, make a pull request to the original CodeFellows repository.
